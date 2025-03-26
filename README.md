@@ -1,11 +1,11 @@
 # 🧮 Repositório de Problemas de Matemática
 
-Programas em Python para resolver exercícios do Ensino Médio (1º, 2º e 3º anos).
+Programas em Python para resolver exercícios do Ensino Médio (1, 2 e 3 anos).
 
 ## 📚 Tópicos Abordados
-- **1º Ano**: Funções, Progressões, Estatística
-- **2º Ano**: Matrizes, Análise Combinatória
-- **3º Ano**: Cálculo, Probabilidade
+- **1 Ano**: Funções, Progressões, Estatística
+- **2 Ano**: Matrizes, Análise Combinatória
+- **3 Ano**: Cálculo, Probabilidade
 
 ## 🛠 Como Usar
 ```bash
