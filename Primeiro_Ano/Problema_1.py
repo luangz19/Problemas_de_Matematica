@@ -14,3 +14,5 @@ km_rodado = 0.15 # preço cobrado por Km rodados
 preco_a_pagar = dias_alugado*valor_aluguel + Km_percorrido*km_rodado
 
 print(f'O preço a pagar é: {preco_a_pagar}')
+
+# Primeiro problema resolvido
