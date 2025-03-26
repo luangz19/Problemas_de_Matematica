@@ -13,12 +13,3 @@ git clone https://github.com/luangz19/Problemas_de_Matemática.git
 cd problemas-matematica
 pip install -r requirements.txt  # Instala dependências
 ```
-
-## ✨ Exemplo de Código
-```python
-from sympy import symbols, solve
-
-x = symbols('x')
-solucao = solve(x**2 - 5*x + 6, x)
-print("Raízes:", solucao)  # Output: [2, 3]
-```
